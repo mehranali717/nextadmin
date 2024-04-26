@@ -1,5 +1,5 @@
 import { fetchUser, updateUser } from "@/app/lib/actions";
-import { singleUserStyles, styles } from "@/app/ui/dashboard";
+import { singleUserStyles } from "@/app/ui/dashboard";
 import Image from "next/image";
 
 const SingleUserPage = async({ params }) => {

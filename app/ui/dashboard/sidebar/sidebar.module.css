@@ -17,6 +17,8 @@
 }
 .username {
     font-weight: 500;
+    text-transform: capitalize;
+    letter-spacing: 1px;
 }
 .userTitle {
     font-size: 12px;
